@@ -1,7 +1,7 @@
 title: LAGraph
 description: Documentation and Information About LAGraph
 baseurl: "/www" # the subpath of your site, e.g. /blog
-url: "https://graphblas.github.io/LAGraph" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://graphblas.github.io/LAGraph-Website"
 
 remote_theme: pmarsceill/just-the-docs
 
