@@ -1,6 +1,6 @@
 # LAGraph-Website
 
-This repo is a Jekyll website hosted via [GitHub Pages](https://pages.github.com). Pages are created using a version of Markdown called [Kramdown](https://kramdown.gettalong.org/syntax.html).
+This repo is a Jekyll website hosted via [GitHub Pages](https://pages.github.com). Pages are created using a version of Markdown called [Kramdown](https://kramdown.gettalong.org/syntax.html). You can view the [deployment on GitHub Pages here](https://graphblas.github.io/LAGraph-Website/).
 
 Right now, this is largely a proof-of-concept. It is not meant to be the official LAGraph website, but it may become that.
 
