@@ -19,4 +19,3 @@ In this section, we describe the LAGraph algorithms and utilities, as well as ho
   * **Parameter Description.** A description of each parameter in the function signature is provided.
   * **Theoretical Basis.** The underlying mathematics and/or theory of the algorithm is provided with references.
   * **Performance Concerns.** While LAGraph functions are meant to be flexible and easy to use, there may be specific use cases that will enable (or hinder) high-performance of the library implementation.
-{: .fs-6 .fw-300 }
